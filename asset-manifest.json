@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/apollo-2020/static/js/main.5bd303f3.chunk.js",
-    "main.js.map": "/apollo-2020/static/js/main.5bd303f3.chunk.js.map",
-    "runtime-main.js": "/apollo-2020/static/js/runtime-main.d3d9d86c.js",
-    "runtime-main.js.map": "/apollo-2020/static/js/runtime-main.d3d9d86c.js.map",
-    "static/js/2.4aad9aee.chunk.js": "/apollo-2020/static/js/2.4aad9aee.chunk.js",
-    "static/js/2.4aad9aee.chunk.js.map": "/apollo-2020/static/js/2.4aad9aee.chunk.js.map",
-    "index.html": "/apollo-2020/index.html",
-    "static/js/2.4aad9aee.chunk.js.LICENSE.txt": "/apollo-2020/static/js/2.4aad9aee.chunk.js.LICENSE.txt"
+    "main.js": "/nomad-apollo-2020/static/js/main.5bd303f3.chunk.js",
+    "main.js.map": "/nomad-apollo-2020/static/js/main.5bd303f3.chunk.js.map",
+    "runtime-main.js": "/nomad-apollo-2020/static/js/runtime-main.d4641db7.js",
+    "runtime-main.js.map": "/nomad-apollo-2020/static/js/runtime-main.d4641db7.js.map",
+    "static/js/2.a0b4c34e.chunk.js": "/nomad-apollo-2020/static/js/2.a0b4c34e.chunk.js",
+    "static/js/2.a0b4c34e.chunk.js.map": "/nomad-apollo-2020/static/js/2.a0b4c34e.chunk.js.map",
+    "index.html": "/nomad-apollo-2020/index.html",
+    "static/js/2.a0b4c34e.chunk.js.LICENSE.txt": "/nomad-apollo-2020/static/js/2.a0b4c34e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3d9d86c.js",
-    "static/js/2.4aad9aee.chunk.js",
+    "static/js/runtime-main.d4641db7.js",
+    "static/js/2.a0b4c34e.chunk.js",
     "static/js/main.5bd303f3.chunk.js"
   ]
 }
